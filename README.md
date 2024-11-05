@@ -27,3 +27,7 @@ To run the code in this project, I will use the following Python libraries:
 - numpy
 - matplotlib
 
+## Objective
+
+
+
